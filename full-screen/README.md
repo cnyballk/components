@@ -1,6 +1,6 @@
 # fullScreen
 
-![](https://img.shields.io/npm/v/cnyballk/full-screen.svg?style=flat-square#id=hdvEz&originHeight=20&originWidth=80&originalType=binary&ratio=1&status=done&style=none)
+![](https://img.shields.io/npm/v/@cnyballk/full-screen.svg?style=flat-square#id=hdvEz&originHeight=20&originWidth=80&originalType=binary&ratio=1&status=done&style=none)
 
 ## 介绍
 
