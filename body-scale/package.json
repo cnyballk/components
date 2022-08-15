@@ -1,0 +1,28 @@
+{
+  "name": "@cnyballk/body-scale",
+  "version": "1.0.0",
+  "description": "自适应缩放body",
+  "module": "dist/esm/index.js",
+  "types": "dist/esm/index.d.ts",
+  "scripts": {
+    "dev": "father dev",
+    "build": "father build",
+    "build:deps": "father prebundle",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [],
+  "authors": [
+    "cnyballk <cnyballk@qq.com> (https://github.com/cnyballk)"
+  ],
+  "license": "MIT",
+  "files": [
+    "dist",
+    "compiled"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "father": "^4.0.0-rc.9"
+  }
+}
