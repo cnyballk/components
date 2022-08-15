@@ -1,7 +1,7 @@
 # body-scale
 
-[![NPM version](https://img.shields.io/npm/v/body-scale.svg?style=flat)](https://npmjs.org/package/)
-[![NPM downloads](http://img.shields.io/npm/dm/body-scale.svg?style=flat)](https://npmjs.org/package/)
+[![NPM version](https://img.shields.io/npm/v/@cnyballk/body-scale.svg?style=flat)](https://npmjs.org/package/)
+[![NPM downloads](http://img.shields.io/npm/dm/@cnyballk/body-scale.svg?style=flat)](https://npmjs.org/package/)
 
 ## Install
 
